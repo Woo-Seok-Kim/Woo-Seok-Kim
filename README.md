@@ -1,7 +1,6 @@
 -  WooSeok Kim
--  University of Tokyo, 3D Vision Lab
+-  University of Tokyo, 3D Vision Lab M1
 -  Python, C/C++
--  
 
 <!---
 Woo-Seok-Kim/Woo-Seok-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
