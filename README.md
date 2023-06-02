@@ -1,5 +1,5 @@
 -  WooSeok Kim
--  University of Tokyo, 3D Vision Lab M1
+-  University of Tokyo, 3D Vision Lab M2
 -  Python, C/C++
 
 <!---
